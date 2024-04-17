@@ -1,0 +1,6 @@
+@Aloya.API_HostAddress = http://localhost:5047
+
+GET {{Aloya.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

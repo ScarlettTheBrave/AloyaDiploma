@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\aloya.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\aloya.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|solutionrelative:aloya.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|solutionrelative:aloya.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.api\\aloya.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|solutionrelative:aloya.api\\aloya.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652F2A18-A7BD-4F3B-B005-62ADFF23A412}|Aloya.Entity\\Aloya.Entity.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652F2A18-A7BD-4F3B-B005-62ADFF23A412}|Aloya.Entity\\Aloya.Entity.csproj|solutionrelative:aloya.entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|solutionrelative:aloya.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|solutionrelative:aloya.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aloya.Domain",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Aloya.Domain.csproj",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Aloya.Domain.csproj",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Aloya.Domain.csproj",
+              "RelativeToolTip": "Aloya.Domain\\Aloya.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T13:45:49.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Program.cs",
+              "RelativeDocumentMoniker": "Aloya.API\\Program.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Program.cs",
+              "RelativeToolTip": "Aloya.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:45:43.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Aloya.API\\WeatherForecast.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\WeatherForecast.cs",
+              "RelativeToolTip": "Aloya.API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:44:58.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Entity\\Class1.cs",
+              "RelativeDocumentMoniker": "Aloya.Entity\\Class1.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Entity\\Class1.cs",
+              "RelativeToolTip": "Aloya.Entity\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:12:24.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Aloya.API\\Dockerfile",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Dockerfile",
+              "RelativeToolTip": "Aloya.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-17T13:12:04.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Aloya.API\\appsettings.json",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\appsettings.json",
+              "RelativeToolTip": "Aloya.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T13:12:03.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aloya.API",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Aloya.API.csproj",
+              "RelativeDocumentMoniker": "Aloya.API\\Aloya.API.csproj",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Aloya.API.csproj",
+              "RelativeToolTip": "Aloya.API\\Aloya.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T13:11:08.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
