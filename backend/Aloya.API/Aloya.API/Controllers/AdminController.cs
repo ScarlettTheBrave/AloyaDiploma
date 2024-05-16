@@ -33,7 +33,6 @@ namespace Aloya.API.Controllers
         [HttpGet("User", Name = "GetSingleUser" )]
         public async Task<UserEntity> GetSingleUser(int id)
             => await _adminService.GetSingleUser(id);
-        [Authorize(Policy = "StudentPolicy")]
         [HttpGet("Module", Name = "GetSingleModule")]
         public async Task<Module> GetSingleModule(int id)
             => await _adminService.GetSingleModule(id);

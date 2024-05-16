@@ -3,8 +3,100 @@
   "WorkspaceRootPath": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652F2A18-A7BD-4F3B-B005-62ADFF23A412}|Aloya.Entity\\Aloya.Infrastructure.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.entity\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652F2A18-A7BD-4F3B-B005-62ADFF23A412}|Aloya.Entity\\Aloya.Infrastructure.csproj|solutionrelative:aloya.entity\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\auth\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\auth\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\auth\\authprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\auth\\authprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\maps\\modulemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\maps\\modulemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\maps\\globaltestmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\maps\\globaltestmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\aloya.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\aloya.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\tests\\answers\\formanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\tests\\answers\\formanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\tests\\tasks\\formtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\tests\\tasks\\formtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\theory\\illustration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\theory\\illustration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\validators\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\validators\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\validators\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\validators\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\validators\\phonevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\validators\\phonevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\maps\\dtoconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\maps\\dtoconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|solutionrelative:aloya.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\byteconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\byteconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A42A34D-845C-4761-BDB0-BF0883352781}|Aloya.Transfer\\Aloya.Contract.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.transfer\\dtos\\moduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A42A34D-845C-4761-BDB0-BF0883352781}|Aloya.Transfer\\Aloya.Contract.csproj|solutionrelative:aloya.transfer\\dtos\\moduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|solutionrelative:aloya.api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|solutionrelative:aloya.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\maps\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,32 +107,8 @@
       "RelativeMoniker": "D:0:0:{9A42A34D-845C-4761-BDB0-BF0883352781}|Aloya.Transfer\\Aloya.Contract.csproj|solutionrelative:aloya.transfer\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\auth\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\auth\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|solutionrelative:aloya.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{652F2A18-A7BD-4F3B-B005-62ADFF23A412}|Aloya.Entity\\Aloya.Infrastructure.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.entity\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652F2A18-A7BD-4F3B-B005-62ADFF23A412}|Aloya.Entity\\Aloya.Infrastructure.csproj|solutionrelative:aloya.entity\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\theory\\lection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\theory\\lection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\theory\\illustration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\theory\\illustration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\module\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,40 +139,12 @@
       "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\auth\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|solutionrelative:aloya.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\maps\\dtoconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\maps\\dtoconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\maps\\globaltestmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\maps\\globaltestmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\auth\\authprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\auth\\authprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A42A34D-845C-4761-BDB0-BF0883352781}|Aloya.Transfer\\Aloya.Contract.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.transfer\\dtos\\moduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A42A34D-845C-4761-BDB0-BF0883352781}|Aloya.Transfer\\Aloya.Contract.csproj|solutionrelative:aloya.transfer\\dtos\\moduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A42A34D-845C-4761-BDB0-BF0883352781}|Aloya.Transfer\\Aloya.Contract.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.transfer\\dtos\\lectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,32 +175,8 @@
       "RelativeMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|solutionrelative:aloya.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\maps\\modulemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\maps\\modulemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|solutionrelative:aloya.api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\tests\\globaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\tests\\globaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\tests\\tasks\\formtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\tests\\tasks\\formtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\tests\\answers\\formanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\tests\\answers\\formanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.core\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D82A217-15B5-4664-8EE2-FEB1959A2188}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\tests\\tasks\\areatask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -187,18 +203,6 @@
       "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\theory\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\validators\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\validators\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\validators\\phonevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\validators\\phonevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\validators\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\validators\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -223,10 +227,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yyarm\\AppData\\Local\\Temp\\Rar$DIa8172.20415.rartemp\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.domain\\aloya.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{09B20B5E-040B-4C4B-A0E3-49C7A80E8A4C}|Aloya.Domain\\Aloya.Domain.csproj|solutionrelative:aloya.domain\\aloya.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60EF9092-8B9A-4D49-8763-31A197AFF62E}|Aloya.API\\Aloya.API.csproj|d:\\works\\ad\\aloyadiploma\\backend\\aloya.api\\aloya.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -271,72 +271,81 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Aloya.Core\\Services\\UserService.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Services\\UserService.cs",
-              "RelativeToolTip": "Aloya.Core\\Services\\UserService.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAhwFIAAAAQAAAA",
+              "DocumentIndex": 4,
+              "Title": "AuthProvider.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Auth\\AuthProvider.cs",
+              "RelativeDocumentMoniker": "Aloya.Core\\Auth\\AuthProvider.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Auth\\AuthProvider.cs",
+              "RelativeToolTip": "Aloya.Core\\Auth\\AuthProvider.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAjwA0AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T09:21:25.612Z",
+              "WhenOpened": "2024-05-01T05:56:17.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Auth\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Aloya.Core\\Auth\\JwtOptions.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Auth\\JwtOptions.cs",
+              "RelativeToolTip": "Aloya.Core\\Auth\\JwtOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:52:58.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "JwtProvider.cs",
               "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Auth\\JwtProvider.cs",
               "RelativeDocumentMoniker": "Aloya.Core\\Auth\\JwtProvider.cs",
               "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Auth\\JwtProvider.cs",
               "RelativeToolTip": "Aloya.Core\\Auth\\JwtProvider.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAhwCgAAAAIAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBEAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T19:04:19.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserMapper.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\UserMapper.cs",
-              "RelativeDocumentMoniker": "Aloya.Core\\Maps\\UserMapper.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\UserMapper.cs",
-              "RelativeToolTip": "Aloya.Core\\Maps\\UserMapper.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAuwB8AAAAPAAAA",
+              "DocumentIndex": 8,
+              "Title": "GlobalTestMapper.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\GlobalTestMapper.cs",
+              "RelativeDocumentMoniker": "Aloya.Core\\Maps\\GlobalTestMapper.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\GlobalTestMapper.cs",
+              "RelativeToolTip": "Aloya.Core\\Maps\\GlobalTestMapper.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T19:30:23.428Z",
+              "WhenOpened": "2024-04-23T11:36:46.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\UserDTO.cs",
-              "RelativeDocumentMoniker": "Aloya.Transfer\\Dtos\\UserDTO.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\UserDTO.cs",
-              "RelativeToolTip": "Aloya.Transfer\\Dtos\\UserDTO.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAEwBQAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T19:12:42.035Z",
+              "DocumentIndex": 9,
+              "Title": "Aloya.Domain.csproj",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Aloya.Domain.csproj",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Aloya.Domain.csproj",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Aloya.Domain.csproj",
+              "RelativeToolTip": "Aloya.Domain\\Aloya.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T19:10:09.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ByteConverter.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\ByteConverter.cs",
-              "RelativeDocumentMoniker": "Aloya.Core\\ByteConverter.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\ByteConverter.cs",
-              "RelativeToolTip": "Aloya.Core\\ByteConverter.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAawB4AAAAUAAAA",
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "Aloya.Core\\Services\\AdminService.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Services\\AdminService.cs",
+              "RelativeToolTip": "Aloya.Core\\Services\\AdminService.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAtwJQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T07:16:21.586Z",
+              "WhenOpened": "2024-04-30T08:31:11.171Z",
               "EditorCaption": ""
             },
             {
@@ -353,411 +362,12 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Aloya.API\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Aloya.API\\Controllers\\UserController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAwwCoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T19:16:04.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Entity\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "Aloya.Entity\\Data\\DataContext.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Entity\\Data\\DataContext.cs",
-              "RelativeToolTip": "Aloya.Entity\\Data\\DataContext.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAA9wCgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T05:45:45.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\UserEntity.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Auth\\UserEntity.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\UserEntity.cs",
-              "RelativeToolTip": "Aloya.Domain\\Auth\\UserEntity.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBwAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T19:12:11.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Lection.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Theory\\Lection.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Theory\\Lection.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Theory\\Lection.cs",
-              "RelativeToolTip": "Aloya.Domain\\Theory\\Lection.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T19:05:27.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Illustration.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Theory\\Illustration.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Theory\\Illustration.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Theory\\Illustration.cs",
-              "RelativeToolTip": "Aloya.Domain\\Theory\\Illustration.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T19:05:28.594Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Module.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Module\\Module.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Module\\Module.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Module\\Module.cs",
-              "RelativeToolTip": "Aloya.Domain\\Module\\Module.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAASwBUAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T19:05:32.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserAdmicy.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\UserAdmicy.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Auth\\UserAdmicy.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\UserAdmicy.cs",
-              "RelativeToolTip": "Aloya.Domain\\Auth\\UserAdmicy.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA0AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T08:08:19.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Password.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\Password.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Auth\\Password.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\Password.cs",
-              "RelativeToolTip": "Aloya.Domain\\Auth\\Password.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAlwA8AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T19:18:15.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\RequestModel\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\RequestModel\\LoginRequest.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\RequestModel\\LoginRequest.cs",
-              "RelativeToolTip": "Aloya.Domain\\RequestModel\\LoginRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:14:56.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AreaAnswer.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Answers\\AreaAnswer.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Tests\\Answers\\AreaAnswer.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Answers\\AreaAnswer.cs",
-              "RelativeToolTip": "Aloya.Domain\\Tests\\Answers\\AreaAnswer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T11:37:40.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Verify.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\Verify.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Auth\\Verify.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\Verify.cs",
-              "RelativeToolTip": "Aloya.Domain\\Auth\\Verify.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAADwvxEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T19:17:38.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Aloya.API\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Aloya.API\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBMAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T08:30:09.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AdminService.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Services\\AdminService.cs",
-              "RelativeDocumentMoniker": "Aloya.Core\\Services\\AdminService.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Services\\AdminService.cs",
-              "RelativeToolTip": "Aloya.Core\\Services\\AdminService.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAkwBMAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T08:31:11.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DTOConverter.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\DTOConverter.cs",
-              "RelativeDocumentMoniker": "Aloya.Core\\Maps\\DTOConverter.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\DTOConverter.cs",
-              "RelativeToolTip": "Aloya.Core\\Maps\\DTOConverter.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAwB0AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T01:26:25.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GlobalTestMapper.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\GlobalTestMapper.cs",
-              "RelativeDocumentMoniker": "Aloya.Core\\Maps\\GlobalTestMapper.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\GlobalTestMapper.cs",
-              "RelativeToolTip": "Aloya.Core\\Maps\\GlobalTestMapper.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBwAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T11:36:46.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IPasswordHasher.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Interfaces\\IPasswordHasher.cs",
-              "RelativeDocumentMoniker": "Aloya.Core\\Interfaces\\IPasswordHasher.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Interfaces\\IPasswordHasher.cs",
-              "RelativeToolTip": "Aloya.Core\\Interfaces\\IPasswordHasher.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T05:46:46.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IAdminService.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Interfaces\\IAdminService.cs",
-              "RelativeDocumentMoniker": "Aloya.Core\\Interfaces\\IAdminService.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Interfaces\\IAdminService.cs",
-              "RelativeToolTip": "Aloya.Core\\Interfaces\\IAdminService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T08:30:49.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "JwtOptions.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Auth\\JwtOptions.cs",
-              "RelativeDocumentMoniker": "Aloya.Core\\Auth\\JwtOptions.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Auth\\JwtOptions.cs",
-              "RelativeToolTip": "Aloya.Core\\Auth\\JwtOptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T05:52:58.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AuthProvider.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Auth\\AuthProvider.cs",
-              "RelativeDocumentMoniker": "Aloya.Core\\Auth\\AuthProvider.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Auth\\AuthProvider.cs",
-              "RelativeToolTip": "Aloya.Core\\Auth\\AuthProvider.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAjwA0AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T05:56:17.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ModuleDTO.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\ModuleDTO.cs",
-              "RelativeDocumentMoniker": "Aloya.Transfer\\Dtos\\ModuleDTO.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\ModuleDTO.cs",
-              "RelativeToolTip": "Aloya.Transfer\\Dtos\\ModuleDTO.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAlwA0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T05:46:50.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "LectionDTO.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\LectionDTO.cs",
-              "RelativeDocumentMoniker": "Aloya.Transfer\\Dtos\\LectionDTO.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\LectionDTO.cs",
-              "RelativeToolTip": "Aloya.Transfer\\Dtos\\LectionDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:42:27.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "GlobalTestDTO.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\GlobalTestDTO.cs",
-              "RelativeDocumentMoniker": "Aloya.Transfer\\Dtos\\GlobalTestDTO.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\GlobalTestDTO.cs",
-              "RelativeToolTip": "Aloya.Transfer\\Dtos\\GlobalTestDTO.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAywBIAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T11:36:31.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "DataContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Migrations\\DataContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Aloya.API\\Migrations\\DataContextModelSnapshot.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Migrations\\DataContextModelSnapshot.cs",
-              "RelativeToolTip": "Aloya.API\\Migrations\\DataContextModelSnapshot.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T10:07:31.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "20240513175652_InitialCreate1.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Migrations\\20240513175652_InitialCreate1.cs",
-              "RelativeDocumentMoniker": "Aloya.API\\Migrations\\20240513175652_InitialCreate1.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Migrations\\20240513175652_InitialCreate1.cs",
-              "RelativeToolTip": "Aloya.API\\Migrations\\20240513175652_InitialCreate1.cs",
-              "ViewState": "AQIAAL4AAAAAAAAAAAAQwLYBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T20:02:40.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Program.cs",
-              "RelativeDocumentMoniker": "Aloya.API\\Program.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Program.cs",
-              "RelativeToolTip": "Aloya.API\\Program.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T09:21:31.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Aloya.API\\appsettings.json",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\appsettings.json",
-              "RelativeToolTip": "Aloya.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-21T18:19:01.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Aloya.API\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Aloya.API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBQAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-23T11:40:23.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ModuleMapper.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\ModuleMapper.cs",
-              "RelativeDocumentMoniker": "Aloya.Core\\Maps\\ModuleMapper.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\ModuleMapper.cs",
-              "RelativeToolTip": "Aloya.Core\\Maps\\ModuleMapper.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCUAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T05:47:03.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "TeacherController.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Controllers\\TeacherController.cs",
-              "RelativeDocumentMoniker": "Aloya.API\\Controllers\\TeacherController.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Controllers\\TeacherController.cs",
-              "RelativeToolTip": "Aloya.API\\Controllers\\TeacherController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAswCwAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:34:01.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "TeacherService.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Services\\TeacherService.cs",
-              "RelativeDocumentMoniker": "Aloya.Core\\Services\\TeacherService.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Services\\TeacherService.cs",
-              "RelativeToolTip": "Aloya.Core\\Services\\TeacherService.cs",
-              "ViewState": "AQIAAG8CAAAAAAAAAADwv3MCAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:58:12.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "FormTask.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Tasks\\FormTask.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Tests\\Tasks\\FormTask.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Tasks\\FormTask.cs",
-              "RelativeToolTip": "Aloya.Domain\\Tests\\Tasks\\FormTask.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T11:37:47.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
               "Title": "FormAnswer.cs",
               "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Answers\\FormAnswer.cs",
               "RelativeDocumentMoniker": "Aloya.Domain\\Tests\\Answers\\FormAnswer.cs",
@@ -770,111 +380,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "GlobalTest.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\GlobalTest.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Tests\\GlobalTest.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\GlobalTest.cs",
-              "RelativeToolTip": "Aloya.Domain\\Tests\\GlobalTest.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBAAAAAIAAAA",
+              "DocumentIndex": 11,
+              "Title": "FormTask.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Tasks\\FormTask.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Tests\\Tasks\\FormTask.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Tasks\\FormTask.cs",
+              "RelativeToolTip": "Aloya.Domain\\Tests\\Tasks\\FormTask.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:10:38.128Z",
+              "WhenOpened": "2024-04-23T11:37:47.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Entity\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Aloya.Entity\\Data\\DataContext.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Entity\\Data\\DataContext.cs",
+              "RelativeToolTip": "Aloya.Entity\\Data\\DataContext.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAIA5wCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:45:45.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ITeacherService.cs",
               "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Interfaces\\ITeacherService.cs",
               "RelativeDocumentMoniker": "Aloya.Core\\Interfaces\\ITeacherService.cs",
               "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Interfaces\\ITeacherService.cs",
               "RelativeToolTip": "Aloya.Core\\Interfaces\\ITeacherService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBIAAAAoAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T14:35:46.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "LinkType.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Enums\\LinkType.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Enums\\LinkType.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Enums\\LinkType.cs",
-              "RelativeToolTip": "Aloya.Domain\\Enums\\LinkType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "DocumentIndex": 7,
+              "Title": "ModuleMapper.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\ModuleMapper.cs",
+              "RelativeDocumentMoniker": "Aloya.Core\\Maps\\ModuleMapper.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\ModuleMapper.cs",
+              "RelativeToolTip": "Aloya.Core\\Maps\\ModuleMapper.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T11:37:25.713Z",
+              "WhenOpened": "2024-04-23T05:47:03.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "AreaTask.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Tasks\\AreaTask.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Tests\\Tasks\\AreaTask.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Tasks\\AreaTask.cs",
-              "RelativeToolTip": "Aloya.Domain\\Tests\\Tasks\\AreaTask.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAswBQAAAAZAAAA",
+              "DocumentIndex": 12,
+              "Title": "Illustration.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Theory\\Illustration.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Theory\\Illustration.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Theory\\Illustration.cs",
+              "RelativeToolTip": "Aloya.Domain\\Theory\\Illustration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T18:40:15.649Z",
+              "WhenOpened": "2024-04-21T19:05:28.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "20240516024620_initialCreate2.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Migrations\\20240516024620_initialCreate2.cs",
-              "RelativeDocumentMoniker": "Aloya.API\\Migrations\\20240516024620_initialCreate2.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Migrations\\20240516024620_initialCreate2.cs",
-              "RelativeToolTip": "Aloya.API\\Migrations\\20240516024620_initialCreate2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAmwC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T02:46:48.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "ImageTask.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Tasks\\ImageTask.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Tests\\Tasks\\ImageTask.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Tasks\\ImageTask.cs",
-              "RelativeToolTip": "Aloya.Domain\\Tests\\Tasks\\ImageTask.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T11:37:48.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ImageAnswer.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Answers\\ImageAnswer.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Tests\\Answers\\ImageAnswer.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Answers\\ImageAnswer.cs",
-              "RelativeToolTip": "Aloya.Domain\\Tests\\Answers\\ImageAnswer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T11:37:43.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Link.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Theory\\Link.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Theory\\Link.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Theory\\Link.cs",
-              "RelativeToolTip": "Aloya.Domain\\Theory\\Link.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T18:40:10.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 13,
               "Title": "EmailValidator.cs",
               "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Validators\\EmailValidator.cs",
               "RelativeDocumentMoniker": "Aloya.Domain\\Validators\\EmailValidator.cs",
@@ -887,20 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "PhoneValidator.cs",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Validators\\PhoneValidator.cs",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Validators\\PhoneValidator.cs",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Validators\\PhoneValidator.cs",
-              "RelativeToolTip": "Aloya.Domain\\Validators\\PhoneValidator.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADwvxAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T11:37:59.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 14,
               "Title": "PasswordValidator.cs",
               "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Validators\\PasswordValidator.cs",
               "RelativeDocumentMoniker": "Aloya.Domain\\Validators\\PasswordValidator.cs",
@@ -913,7 +471,436 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PhoneValidator.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Validators\\PhoneValidator.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Validators\\PhoneValidator.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Validators\\PhoneValidator.cs",
+              "RelativeToolTip": "Aloya.Domain\\Validators\\PhoneValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:37:59.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Aloya.Core\\Services\\UserService.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Services\\UserService.cs",
+              "RelativeToolTip": "Aloya.Core\\Services\\UserService.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAhwFIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:21:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "Aloya.Core\\Services\\TeacherService.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Services\\TeacherService.cs",
+              "RelativeToolTip": "Aloya.Core\\Services\\TeacherService.cs",
+              "ViewState": "AQIAAG8CAAAAAAAAAADwv3MCAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:58:12.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DTOConverter.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\DTOConverter.cs",
+              "RelativeDocumentMoniker": "Aloya.Core\\Maps\\DTOConverter.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\DTOConverter.cs",
+              "RelativeToolTip": "Aloya.Core\\Maps\\DTOConverter.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwB0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:26:25.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Aloya.API\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Aloya.API\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAADwvyIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:30:09.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ByteConverter.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\ByteConverter.cs",
+              "RelativeDocumentMoniker": "Aloya.Core\\ByteConverter.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\ByteConverter.cs",
+              "RelativeToolTip": "Aloya.Core\\ByteConverter.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:16:21.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\UserMapper.cs",
+              "RelativeDocumentMoniker": "Aloya.Core\\Maps\\UserMapper.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Maps\\UserMapper.cs",
+              "RelativeToolTip": "Aloya.Core\\Maps\\UserMapper.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwB8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:30:23.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Aloya.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Aloya.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:16:04.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Aloya.API\\Controllers\\TeacherController.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Aloya.API\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:34:01.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ModuleDTO.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\ModuleDTO.cs",
+              "RelativeDocumentMoniker": "Aloya.Transfer\\Dtos\\ModuleDTO.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\ModuleDTO.cs",
+              "RelativeToolTip": "Aloya.Transfer\\Dtos\\ModuleDTO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:46:50.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Auth\\UserEntity.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\UserEntity.cs",
+              "RelativeToolTip": "Aloya.Domain\\Auth\\UserEntity.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:12:11.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Lection.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Theory\\Lection.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Theory\\Lection.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Theory\\Lection.cs",
+              "RelativeToolTip": "Aloya.Domain\\Theory\\Lection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:05:27.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Aloya.Transfer\\Dtos\\UserDTO.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\UserDTO.cs",
+              "RelativeToolTip": "Aloya.Transfer\\Dtos\\UserDTO.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAEwBQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:12:42.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Module.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Module\\Module.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Module\\Module.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Module\\Module.cs",
+              "RelativeToolTip": "Aloya.Domain\\Module\\Module.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAASwBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:05:32.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserAdmicy.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\UserAdmicy.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Auth\\UserAdmicy.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\UserAdmicy.cs",
+              "RelativeToolTip": "Aloya.Domain\\Auth\\UserAdmicy.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:08:19.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Password.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\Password.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Auth\\Password.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\Password.cs",
+              "RelativeToolTip": "Aloya.Domain\\Auth\\Password.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:18:15.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\RequestModel\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\RequestModel\\LoginRequest.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\RequestModel\\LoginRequest.cs",
+              "RelativeToolTip": "Aloya.Domain\\RequestModel\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:14:56.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AreaAnswer.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Answers\\AreaAnswer.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Tests\\Answers\\AreaAnswer.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Answers\\AreaAnswer.cs",
+              "RelativeToolTip": "Aloya.Domain\\Tests\\Answers\\AreaAnswer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:37:40.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Verify.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\Verify.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Auth\\Verify.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Auth\\Verify.cs",
+              "RelativeToolTip": "Aloya.Domain\\Auth\\Verify.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:17:38.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Aloya.Core\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "Aloya.Core\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:46:46.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "Aloya.Core\\Interfaces\\IAdminService.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "Aloya.Core\\Interfaces\\IAdminService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:30:49.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LectionDTO.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\LectionDTO.cs",
+              "RelativeDocumentMoniker": "Aloya.Transfer\\Dtos\\LectionDTO.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\LectionDTO.cs",
+              "RelativeToolTip": "Aloya.Transfer\\Dtos\\LectionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:42:27.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GlobalTestDTO.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\GlobalTestDTO.cs",
+              "RelativeDocumentMoniker": "Aloya.Transfer\\Dtos\\GlobalTestDTO.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Dtos\\GlobalTestDTO.cs",
+              "RelativeToolTip": "Aloya.Transfer\\Dtos\\GlobalTestDTO.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAywBIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:36:31.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Aloya.API\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "Aloya.API\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:07:31.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240513175652_InitialCreate1.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Migrations\\20240513175652_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "Aloya.API\\Migrations\\20240513175652_InitialCreate1.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Migrations\\20240513175652_InitialCreate1.cs",
+              "RelativeToolTip": "Aloya.API\\Migrations\\20240513175652_InitialCreate1.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAQwLYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:02:40.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Program.cs",
+              "RelativeDocumentMoniker": "Aloya.API\\Program.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Program.cs",
+              "RelativeToolTip": "Aloya.API\\Program.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:21:31.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Aloya.API\\appsettings.json",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\appsettings.json",
+              "RelativeToolTip": "Aloya.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T18:19:01.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Aloya.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Aloya.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T11:40:23.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GlobalTest.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\GlobalTest.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Tests\\GlobalTest.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\GlobalTest.cs",
+              "RelativeToolTip": "Aloya.Domain\\Tests\\GlobalTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:10:38.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LinkType.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Enums\\LinkType.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Enums\\LinkType.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Enums\\LinkType.cs",
+              "RelativeToolTip": "Aloya.Domain\\Enums\\LinkType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:37:25.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AreaTask.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Tasks\\AreaTask.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Tests\\Tasks\\AreaTask.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Tasks\\AreaTask.cs",
+              "RelativeToolTip": "Aloya.Domain\\Tests\\Tasks\\AreaTask.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswBQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:40:15.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240516024620_initialCreate2.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Migrations\\20240516024620_initialCreate2.cs",
+              "RelativeDocumentMoniker": "Aloya.API\\Migrations\\20240516024620_initialCreate2.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Migrations\\20240516024620_initialCreate2.cs",
+              "RelativeToolTip": "Aloya.API\\Migrations\\20240516024620_initialCreate2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T02:46:48.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ImageTask.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Tasks\\ImageTask.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Tests\\Tasks\\ImageTask.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Tasks\\ImageTask.cs",
+              "RelativeToolTip": "Aloya.Domain\\Tests\\Tasks\\ImageTask.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:37:48.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ImageAnswer.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Answers\\ImageAnswer.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Tests\\Answers\\ImageAnswer.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Tests\\Answers\\ImageAnswer.cs",
+              "RelativeToolTip": "Aloya.Domain\\Tests\\Answers\\ImageAnswer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:37:43.792Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 49,
+              "Title": "Link.cs",
+              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Theory\\Link.cs",
+              "RelativeDocumentMoniker": "Aloya.Domain\\Theory\\Link.cs",
+              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Theory\\Link.cs",
+              "RelativeToolTip": "Aloya.Domain\\Theory\\Link.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:40:10.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
               "Title": "Role.cs",
               "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Enums\\Role.cs",
               "RelativeDocumentMoniker": "Aloya.Domain\\Enums\\Role.cs",
@@ -925,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Aloya.Core\\Interfaces\\IUserService.cs",
@@ -937,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "IJwtProvider.cs",
               "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Core\\Interfaces\\IJwtProvider.cs",
               "RelativeDocumentMoniker": "Aloya.Core\\Interfaces\\IJwtProvider.cs",
@@ -949,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "Aloya.API.http",
               "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.API\\Aloya.API.http",
               "RelativeDocumentMoniker": "Aloya.API\\Aloya.API.http",
@@ -961,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Works\\CourseworkOr1\\Medicine\\CourseWorkWeb\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\CourseworkOr1\\Medicine\\CourseWorkWeb\\Program.cs",
@@ -985,7 +972,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "Aloya.Contract.csproj",
               "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Aloya.Contract.csproj",
               "RelativeDocumentMoniker": "Aloya.Transfer\\Aloya.Contract.csproj",
@@ -997,7 +984,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\yyarm\\AppData\\Local\\Temp\\Rar$DIa8172.20415.rartemp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\yyarm\\AppData\\Local\\Temp\\Rar$DIa8172.20415.rartemp\\MainWindow.xaml.cs",
@@ -1028,18 +1015,6 @@
               "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-04-23T09:12:10.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Aloya.Domain.csproj",
-              "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Aloya.Domain.csproj",
-              "RelativeDocumentMoniker": "Aloya.Domain\\Aloya.Domain.csproj",
-              "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Domain\\Aloya.Domain.csproj",
-              "RelativeToolTip": "Aloya.Domain\\Aloya.Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-23T19:10:09.421Z"
             },
             {
               "$type": "Document",

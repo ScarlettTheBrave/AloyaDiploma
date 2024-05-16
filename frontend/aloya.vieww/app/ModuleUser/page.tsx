@@ -9,15 +9,16 @@ interface Module {
   image: string;
   colour: string;
 }
-
+interface ModuleUserPageProps {
+  id: number;
+}
 const ModuleUserPage = () => {
-  const { id } = useParams<{ id: string }>(); // Получение id из URL
   const [module, setModule] = useState<Module | null>(null);
-
+  const storedId = localStorage.getItem('moduleId');
   useEffect(() => {
     const fetchModule = async () => {
       try {
-        const response = await fetch(`http://localhost:5047/api/Admin/Modules/${id}`);
+        const response = await fetch(`http://localhost:5047/api/Admin/Module?id=${storedId}`);
         const data = await response.json();
         setModule(data); // Установка данных модуля в состояние
       } catch (error) {
@@ -26,14 +27,11 @@ const ModuleUserPage = () => {
     };
 
     fetchModule();
-  }, [id]);
+  }, []);
 
-  // Если модуль еще загружается, отображаем загрузочное сообщение
   if (!module) {
     return <div>Loading...</div>;
   }
-
-  // Отображение информации о модуле
   return (
     <div>
       <h2>{module.name}</h2>

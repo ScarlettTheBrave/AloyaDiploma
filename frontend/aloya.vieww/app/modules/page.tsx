@@ -1,6 +1,8 @@
 "use client";
-import { useEffect, useState } from "react";
+import { MouseEvent, useEffect, useState } from "react";
 import { stringToByteArray, toBase64 } from "../api/photo";
+import ModuleUserPage from "../ModuleUser/page";
+import ReactDOM from "react-dom";
 
 interface Module {
   id: number;
@@ -12,6 +14,7 @@ interface Module {
 
 export default function ModulesPage() {
   const [modules, setModules] = useState<Module[]>([]);
+  const [frame,setFrame] = useState(0);
 
   useEffect(() => {
     const fetchModules = async () => {
@@ -26,21 +29,26 @@ export default function ModulesPage() {
           name: item.name
         }));
         setModules(parsedData);
+        setFrame(0);
       } catch (error) {
         console.error("Ошибка загрузки модулей:", error);
       }
     };
-
     fetchModules();
   }, []);
 
+  function handleModuleClick(id: number): void {
+    localStorage.setItem('moduleId', String(id)); 
+}
+
   return (
+    
     <div style={{ marginTop: '4vh', marginBottom: '4vh', display: "flex", flexDirection: "column", alignItems: "center" }}>
         <h2>Available modules!</h2>
       {modules.map((module) => (
          <a
-         href={`/ModuleUser/${module.id}`}
-      
+         href={`/ModuleUser`}
+         onClick={(e) => handleModuleClick(module.id)}
          style={{
             marginTop: '4vh',
             marginBottom: '4vh',
