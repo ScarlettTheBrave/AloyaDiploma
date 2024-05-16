@@ -1,0 +1,12 @@
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\bin\Debug\net8.0\Aloya.Transfer.deps.json
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\bin\Debug\net8.0\Aloya.Transfer.dll
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\bin\Debug\net8.0\Aloya.Transfer.pdb
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Transfer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Transfer.AssemblyInfoInputs.cache
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Transfer.AssemblyInfo.cs
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Transfer.csproj.CoreCompileInputs.cache
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Transfer.sourcelink.json
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Transfer.dll
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\refint\Aloya.Transfer.dll
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Transfer.pdb
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\ref\Aloya.Transfer.dll

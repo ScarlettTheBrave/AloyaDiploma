@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\Aloya.API",
+    "\\backend\\Aloya.API\\Aloya.API",
+    "\\backend\\Aloya.API\\Aloya.API\\Controllers",
+    "\\backend\\Aloya.API\\Aloya.API\\Migrations",
+    "\\backend\\Aloya.API\\Aloya.API\\Properties",
+    "\\frontend"
+  ],
+  "SelectedNode": "\\frontend",
+  "PreviewInSolutionExplorer": false
+}

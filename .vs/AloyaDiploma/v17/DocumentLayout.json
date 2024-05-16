@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Works\\AD\\AloyaDiploma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70519D63-5BD7-4E72-AA66-F5D7B3803032}|Aloya.Core\\Aloya.Core.csproj|d:\\works\\ad\\aloyadiploma\\aloya.core\\aloya.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{70519D63-5BD7-4E72-AA66-F5D7B3803032}|Aloya.Core\\Aloya.Core.csproj|solutionrelative:aloya.core\\aloya.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\AD\\AloyaDiploma\\Aloya.Core\\Aloya.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aloya.Core\\Aloya.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +19,17 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Aloya.Core",
+              "Title": "Aloya.Core.csproj",
               "DocumentMoniker": "D:\\Works\\AD\\AloyaDiploma\\Aloya.Core\\Aloya.Core.csproj",
               "RelativeDocumentMoniker": "Aloya.Core\\Aloya.Core.csproj",
               "ToolTip": "D:\\Works\\AD\\AloyaDiploma\\Aloya.Core\\Aloya.Core.csproj",
               "RelativeToolTip": "Aloya.Core\\Aloya.Core.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-17T13:02:10.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T13:02:10.053Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

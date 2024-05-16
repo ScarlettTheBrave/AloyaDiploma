@@ -1,0 +1,13 @@
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Domain\bin\Debug\net8.0\Aloya.Domain.deps.json
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Domain\bin\Debug\net8.0\Aloya.Domain.dll
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Domain\bin\Debug\net8.0\Aloya.Domain.pdb
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Domain\obj\Debug\net8.0\Aloya.Domain.csproj.AssemblyReference.cache
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Domain\obj\Debug\net8.0\Aloya.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Domain\obj\Debug\net8.0\Aloya.Domain.AssemblyInfoInputs.cache
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Domain\obj\Debug\net8.0\Aloya.Domain.AssemblyInfo.cs
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Domain\obj\Debug\net8.0\Aloya.Domain.csproj.CoreCompileInputs.cache
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Domain\obj\Debug\net8.0\Aloya.Domain.sourcelink.json
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Domain\obj\Debug\net8.0\Aloya.Domain.dll
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Domain\obj\Debug\net8.0\refint\Aloya.Domain.dll
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Domain\obj\Debug\net8.0\Aloya.Domain.pdb
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Domain\obj\Debug\net8.0\ref\Aloya.Domain.dll

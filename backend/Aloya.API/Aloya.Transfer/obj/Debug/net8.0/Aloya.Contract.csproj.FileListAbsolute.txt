@@ -1,0 +1,16 @@
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\bin\Debug\net8.0\Aloya.Contract.deps.json
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\bin\Debug\net8.0\Aloya.Contract.dll
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\bin\Debug\net8.0\Aloya.Contract.pdb
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\bin\Debug\net8.0\Aloya.Domain.dll
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\bin\Debug\net8.0\Aloya.Domain.pdb
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Contract.csproj.AssemblyReference.cache
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Contract.AssemblyInfoInputs.cache
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Contract.AssemblyInfo.cs
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Contract.csproj.CoreCompileInputs.cache
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Contract.sourcelink.json
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Co.729C2212.Up2Date
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Contract.dll
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\refint\Aloya.Contract.dll
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\Aloya.Contract.pdb
+D:\Works\AD\AloyaDiploma\backend\Aloya.API\Aloya.Transfer\obj\Debug\net8.0\ref\Aloya.Contract.dll

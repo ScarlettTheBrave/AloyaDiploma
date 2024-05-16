@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SEYyvzyL3/821EvrRUKhUSbnpjks5FfjS7FMVw4yjHEH/ndunJsAfY8KRjRqXXvaeAHPy1izg1AD/0F2pM6sKQ==",
+  "dgSpecHash": "cHhTR8W65x4Feg/uWcRzxVRCsJ6zx2i0QUu1aCgeCCELAuphHYdVRGK4ijkg7txCSTlkMdaLkreBcFQCvLklPA==",
   "success": true,
-  "projectFilePath": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Aloya.Transfer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Works\\AD\\AloyaDiploma\\backend\\Aloya.API\\Aloya.Transfer\\Aloya.Contract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yyarm\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\yyarm\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\yyarm\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\yyarm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

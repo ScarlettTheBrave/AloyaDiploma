@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Aloya.Domain\Aloya.Domain.csproj" />
+    <ProjectReference Include="..\Aloya.Entity\Aloya.Infrastructure.csproj" />
+    <ProjectReference Include="..\Aloya.Transfer\Aloya.Contract.csproj" />
+  </ItemGroup>
+
 </Project>
